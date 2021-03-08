@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 // const MongoClient = require('mongodb').MongoClient;
-// const uri ="mongodb+srv://madhusudan:Mysql_80@cluster0.vsrmk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+// const uri ="mongodb+srv://madhusudan:PASSWORD@cluster0.vsrmk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 // const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
 // client.connect(err =>
 //     {
